@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indexador-registros-lucenenet", "indexador-registros-lucenenet\indexador-registros-lucenenet.csproj", "{F3384C3F-335C-4D6E-AB99-DFD20A2AD12F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3384C3F-335C-4D6E-AB99-DFD20A2AD12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3384C3F-335C-4D6E-AB99-DFD20A2AD12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3384C3F-335C-4D6E-AB99-DFD20A2AD12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3384C3F-335C-4D6E-AB99-DFD20A2AD12F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
